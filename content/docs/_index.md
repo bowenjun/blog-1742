@@ -2,16 +2,13 @@
 title: Documentation
 ---
 
-This is a demo of the theme's documentation layout.
+简单，可依赖
 
-## Hello, World!
+## Coder Maps
 
-```go {filename="main.go"}
-package main
-
-import "fmt"
-
-func main() {
-    fmt.Println("Hello, World!")
-}
-```
+{{< cards >}}
+  {{< card link="/docs/coder/android/" title="Android" >}}
+  {{< card link="/docs/coder/docker/" title="Docker" >}}
+  {{< card link="/docs/coder/git/" title="Git" >}}
+  {{< card link="/docs/coder/js/" title="JavaScript" >}}
+{{< /cards >}}
