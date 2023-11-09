@@ -1,8 +1,6 @@
 ---
-title: 下载获取后端返回文件名
+title: Get download file name
 ---
-
-## Download File Name
 
 ### Get name from response header
 
