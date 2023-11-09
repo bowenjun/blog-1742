@@ -1,5 +1,5 @@
 ---
-title: pipeline add ssh
+title: Pipeline add ssh
 ---
 
 [https://docs.gitlab.com/ee/ci/ssh_keys/](https://docs.gitlab.com/ee/ci/ssh_keys/)

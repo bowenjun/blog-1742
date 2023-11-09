@@ -1,12 +1,12 @@
 ---
-title: 常用命令
+title: Commands
 ---
 
-### 压缩、解压
+#### 压缩、解压
 
 > tar -zxvf *.tar.gz
 > tar -zcvf *.tar.gz folder/
 
-### 查看文件大小
+#### 查看文件大小
 
 > du -sh

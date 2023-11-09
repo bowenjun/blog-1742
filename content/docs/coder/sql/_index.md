@@ -1,3 +1,3 @@
 ---
-title: sql
+title: Sql
 ---

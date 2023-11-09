@@ -1,8 +1,8 @@
 ---
-title: commit
+title: Commit lint
 ---
 
-## git commit -m ""
+#### git commit -m ""
 
 > feat: new feature
 

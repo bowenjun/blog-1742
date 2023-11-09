@@ -2,7 +2,7 @@
 title: Get download file name
 ---
 
-### Get name from response header
+#### Get name from response header
 
 ```js
 let filename = ''

@@ -2,9 +2,9 @@
 title: _.drop
 ---
 
-## _.drop(array, [n=1])
+> _.drop(array, [n=1])
 
-### 使用
+#### 使用
 
 ```js
 _.drop(array, [n=1]) // 创建一个切片数组，去除array前面的n个元素。（n默认值为1。）
@@ -13,7 +13,7 @@ _.dropRight(array, [n=1]) // 创建一个切片数组，去除array尾部的n个
 _.dropRightWhile(array, [predicate=_.identity]) // 创建一个切片数组，去除array中从 predicate 返回假值开始到尾部的部分。predicate 会传入3个参数： (value, index, array)。
 ```
 
-### 实现
+#### 实现
 
 ```js
 const _ = require('../source');

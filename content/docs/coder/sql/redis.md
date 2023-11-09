@@ -1,5 +1,5 @@
 ---
-title: redis 使用
+title: Redis 使用
 ---
 
 ```python

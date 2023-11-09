@@ -2,11 +2,11 @@
 title: _.flatten
 ---
 
-## _.flatten(array)
+> _.flatten(array)
 
 > ES6 已支持 flat、flatMap 方法
 
-### 使用
+#### 使用
 
 将数组降级。
 
@@ -16,7 +16,7 @@ _.flattenDeep(array) // 将 array 递归为一维数组
 _.flattenDepth(array, [depth=1]) // 根据 depth 递归减少嵌套
 ```
 
-### 实现
+#### 实现
 
 ```js
 function flatten(array, depth, result = []) {

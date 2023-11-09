@@ -2,9 +2,9 @@
 title: _.concat
 ---
 
-## _.concat(array, [values])
+> _.concat(array, [values])
 
-### 使用
+#### 使用
 
 创建一个新数组，将 array 与任何数组 或 值连接在一起。
 
@@ -19,7 +19,7 @@ console.log(array);
 // => [1]
 ```
 
-### 实现
+#### 实现
 
 ```js
 function concat() {

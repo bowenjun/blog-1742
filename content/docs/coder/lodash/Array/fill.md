@@ -2,14 +2,14 @@
 title: _.fill
 ---
 
-## _.fill(array, value, [start=0], [end=array.length])
+> _.fill(array, value, [start=0], [end=array.length])
 
-### 使用
+#### 使用
 
 使用 value 值来填充（替换） array，从 start 位置开始, 到 end 位置结束（但不包含 end 位置）。
 注：这个方法会改变 array
 
-### 实现
+#### 实现
 
 ```js
 function fill(array, value, start = 0, end) {
