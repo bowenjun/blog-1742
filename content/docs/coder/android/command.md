@@ -17,3 +17,10 @@ title: Adb commands
 #### shack
 
 > adb shell input keyevent 82
+
+#### log
+
+```sh
+# crash
+adb logcat -b crash > err.txt
+```
