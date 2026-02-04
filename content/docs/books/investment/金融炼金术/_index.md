@@ -27,3 +27,35 @@ weight: 13
 >
 > "经济史是一部基于假象和谎言的连续剧，而不是基于真理。"
 
+> "Markets are constantly in a state of uncertainty and flux and money is made by discounting the obvious and betting on the unexpected."
+>
+> "市场总是处于不确定和变动的状态，赚钱的方法是折现显而易见的事物，并押注于意想不到的事物。"
+
+> "The financial markets generally are unpredictable. So that one has to have different scenarios."
+>
+> "金融市场通常是不可预测的。所以一个人必须有不同的情景假设。"
+
+> "It is not whether you are right or wrong that's important, but how much money you make when you're right and how much you lose when you're wrong."
+>
+> "重要的不是你是对还是错，而是当你对的时候你赚了多少钱，当你错的时候你赔了多少钱。"
+
+> "Bubbles don't grow out of thin air. They have a solid basis in reality, but reality as distorted by a misconception."
+>
+> "泡沫不是凭空产生的。它们在现实中有坚实的基础，但现实被一种误解所扭曲。"
+
+> "If investing is entertaining, if you're having fun, you're probably not making any money. Good investing is boring."
+>
+> "如果投资是有趣的，如果你玩得很开心，你可能赚不到钱。好的投资是枯燥的。"
+
+> "I'm only rich because I know when I'm wrong."
+>
+> "我富有仅仅是因为我知道我什么时候错了。"
+
+> "We are all fallible."
+>
+> "我们都会犯错。"
+
+> "Reflexivity is the theory that the market participants' bias affects the market price, which in turn affects the participants' bias."
+>
+> "反身性理论是指市场参与者的偏见影响市场价格，而市场价格反过来又影响参与者的偏见。"
+

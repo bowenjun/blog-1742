@@ -28,3 +28,35 @@ weight: 7
 >
 > "市场不是一个完美的赌场……但要击败庄家很难。"
 
+> "It is not hard to make money in the market. What is hard to avoid is the alluring temptation to throw your money away on short, get-rich-quick speculative binges."
+>
+> "在市场上赚钱并不难。难的是避免那种把钱浪费在短期的、快速致富的投机狂欢中的诱惑。"
+
+> "The history of stock price movements contains no useful information that will enable an investor to consistently outperform a buy-and-hold strategy."
+>
+> "股价变动的历史不包含任何有用的信息，能让投资者持续战胜买入并持有策略。"
+
+> "The core of the random walk theory is that the past movement or direction of the price of a stock or overall market cannot be used to predict its future movement."
+>
+> "随机漫步理论的核心是，股票或整个市场价格的过去变动或方向不能用来预测其未来变动。"
+
+> "Investors should own index funds."
+>
+> "投资者应该拥有指数基金。"
+
+> "The only way to beat the market is to take on more risk."
+>
+> "击败市场的唯一方法是承担更多风险。"
+
+> "Don't put all your eggs in one basket."
+>
+> "不要把你所有的鸡蛋放在一个篮子里。"
+
+> "Financial markets are efficient enough that few people can consistently outperform them."
+>
+> "金融市场足够有效，很少有人能持续跑赢它们。"
+
+> "Rebalancing reduces risk and can increase returns."
+>
+> "再平衡降低风险并可能增加回报。"
+

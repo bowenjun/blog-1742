@@ -26,3 +26,35 @@ weight: 12
 >
 > "投机是试图把小钱变成大钱的努力，往往不成功；投资是防止大钱变成小钱的努力，应该要成功。"
 
+> "Financial genius is a rising stock market."
+>
+> "金融天才是不断上涨的股市（意指在牛市中每个人都觉得自己是天才）。"
+
+> "There are certain things that cannot be adequately explained to a virgin either by words or pictures. Nor can any description that I might offer here even approximate what it feels like to lose a real chunk of money that you used to own."
+>
+> "有些事情无论是用文字还是图片都无法向处女充分解释。我也无法在这里描述失去一大笔你曾经拥有的钱是什么感觉。"
+
+> "If you want to make money in the market, you have to know what you are doing. If you don't know what you are doing, you will lose money."
+>
+> "如果你想在市场上赚钱，你必须知道你在做什么。如果你不知道你在做什么，你会赔钱。"
+
+> "Customers' men (brokers) are not necessarily bad people. They are just people who have to make a living."
+>
+> "客户经理（经纪人）不一定是坏人。他们只是需要谋生的人。"
+
+> "The market will fluctuate."
+>
+> "市场会波动。（摩根大通的名言）"
+
+> "It is hard to believe that anyone could be so wrong so often as the average forecaster."
+>
+> "很难相信有人会像普通预测者那样经常犯错。"
+
+> "Accounting is an art, not a science."
+>
+> "会计是一门艺术，而不是一门科学。"
+
+> "Most people are better off not speculating."
+>
+> "大多数人最好不要投机。"
+

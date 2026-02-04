@@ -24,3 +24,39 @@ weight: 6
 >
 > "分析应主要关注由事实支撑的价值，而不是依赖于预期的价值。"
 
+> "Price is what you pay. Value is what you get."
+>
+> "价格是你支付的。价值是你得到的。"
+
+> "It is a conservative principle that one should not pay more for a security than its intrinsic value."
+>
+> "一个保守的原则是，支付的价格不应超过证券的内在价值。"
+
+> "The future is uncertain... the analyst must deal with probabilities, not certainties."
+>
+> "未来是不确定的……分析师必须处理概率，而不是确定性。"
+
+> "Safety of principal is the primary consideration in any investment."
+>
+> "本金安全是任何投资的首要考虑因素。"
+
+> "Speculation is always fascinating, and it can be fun while you are ahead of the game."
+>
+> "投机总是令人着迷的，当你处于领先地位时，它可能很有趣。"
+
+> "The stock market is a giant distraction to the business of investing."
+>
+> "股市是对投资业务的巨大干扰。"
+
+> "Investigate before you invest."
+>
+> "在投资之前进行调查。"
+
+> "A great business at a fair price is superior to a fair business at a great price."
+>
+> "以合理价格买入一家伟大的企业，胜过以极好的价格买入一家普通的企业。（虽然这是巴菲特后来总结的，但源于格雷厄姆的思想进化）"
+
+> "Do not let the market price determine your estimate of value."
+>
+> "不要让市场价格决定你对价值的估计。"
+

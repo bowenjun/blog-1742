@@ -28,3 +28,39 @@ weight: 8
 >
 > "我们无法预测，但我们可以准备。"
 
+> "Success in investing doesn't come from buying good things, but from buying things well."
+>
+> "投资成功不是来自于买好的东西，而是来自于买得好（价格合适）。"
+
+> "Investment is the discipline of relative selection."
+>
+> "投资是一门相对选择的学科。"
+
+> "Being too far ahead of your time is indistinguishable from being wrong."
+>
+> "过于超前与错误没有区别。"
+
+> "Risk is the potential for loss when things go wrong."
+>
+> "风险是当事情出错时的损失潜力。"
+
+> "The future is not a fixed path. It is a range of probabilities."
+>
+> "未来不是一条固定的路径。它是一系列的概率。"
+
+> "When everyone believes something is risky, their unwillingness to buy usually reduces the price to the point where it’s not risky at all."
+>
+> "当所有人都认为某件事有风险时，他们不愿购买通常会将价格压低到根本没有风险的程度。"
+
+> "Superior investors know that they don’t know what the future holds."
+>
+> "优秀的投资者知道他们不知道未来会发生什么。"
+
+> "It is essential to remember that just because the market is cyclical doesn't mean it is predictable."
+>
+> "必须记住，仅仅因为市场是周期性的并不意味着它是可预测的。"
+
+> "Cycles are self-correcting."
+>
+> "周期是自我修正的。"
+

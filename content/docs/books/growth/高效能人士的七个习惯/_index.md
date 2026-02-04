@@ -28,3 +28,35 @@ weight: 1
 >
 > "最重要的事情是，把最重要的事情当作最重要的事情。"
 
+> "But until a person can say deeply and honestly, 'I am what I am today because of the choices I made yesterday,' that person cannot say, 'I choose otherwise.'"
+>
+> "除非一个人能真诚地说：‘我之所以成为今天的我，是因为我昨天所做的选择。’否则他就无法说：‘我选择改变。’"
+
+> "To change ourselves effectively, we first had to change our perceptions."
+>
+> "要有效地改变自己，我们首先必须改变我们的看法。"
+
+> "Management is doing things right; leadership is doing the right things."
+>
+> "管理是把事情做对；领导是做对的事情。"
+
+> "Trust is the glue of life. It’s the most essential ingredient in effective communication."
+>
+> "信任是生命的粘合剂。它是有效沟通中最重要的成分。"
+
+> "Synergy is better than my way or your way. It's our way."
+>
+> "统合综效胜过我的方式或你的方式。它是我们的方式。"
+
+> "Begin with the end in mind."
+>
+> "以终为始。"
+
+> "Live out of your imagination, not your history."
+>
+> "活在你的想象中，而不是你的过去中。"
+
+> "We see the world, not as it is, but as we are──or, as we are conditioned to see it."
+>
+> "我们看到的世界，不是它本来的样子，而是我们自己的样子——或者说，是我们被限制看到的样子。"
+

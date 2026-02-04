@@ -28,3 +28,35 @@ weight: 5
 >
 > "短期来看，市场是投票机；长期来看，市场是称重机。"
 
+> "An investment operation is one which, upon thorough analysis, promises safety of principal and an adequate return. Operations not meeting these requirements are speculative."
+>
+> "投资操作是指经过深入分析，承诺本金安全并提供满意回报的操作。不符合这些要求的操作是投机。"
+
+> "Buy not on optimism, but on arithmetic."
+>
+> "不要基于乐观购买，而要基于算术购买。"
+
+> "The individual investor should act consistently as an investor and not as a speculator."
+>
+> "个人投资者应始终像投资者一样行事，而不是像投机者一样。"
+
+> "Those who do not remember the past are condemned to repeat it."
+>
+> "那些不记得过去的人注定要重蹈覆辙。"
+
+> "A stock is not just a ticker symbol or an electronic blip; it is an ownership interest in an actual business."
+>
+> "股票不仅仅是一个代码或电子信号；它是对实际业务的所有权权益。"
+
+> "The defensive investor must confine himself to the shares of important companies with a long record of profitable operations and in strong financial condition."
+>
+> "防御型投资者必须将自己局限于那些拥有长期盈利记录且财务状况良好的重要公司的股票。"
+
+> "Never buy a stock because it has gone up or sell one because it has gone down."
+>
+> "永远不要因为股票上涨而买入，也不要因为股票下跌而卖出。"
+
+> "Confronted with a like challenge, the intelligent investor will ask himself: 'How much am I paying for this earnings power?'"
+>
+> "面对类似的挑战，聪明的投资者会问自己：‘我为这种盈利能力支付了多少钱？’"
+

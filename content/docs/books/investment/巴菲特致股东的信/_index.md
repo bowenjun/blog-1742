@@ -27,3 +27,39 @@ weight: 4
 >
 > "我们最喜欢的持有期限是永远。"
 
+> "Only when the tide goes out do you discover who's been swimming naked."
+>
+> "只有当潮水退去时，你才会发现谁在裸泳。"
+
+> "It's far better to buy a wonderful company at a fair price than a fair company at a wonderful price."
+>
+> "以合理的价格买入一家极好的公司，远胜于以极好的价格买入一家普通的公司。"
+
+> "We simply attempt to be fearful when others are greedy and to be greedy only when others are fearful."
+>
+> "我们只是试图在别人贪婪时恐惧，只有在别人恐惧时才贪婪。"
+
+> "If you aren't willing to own a stock for ten years, don't even think about owning it for ten minutes."
+>
+> "如果你不愿意持有一只股票十年，甚至不要想持有它十分钟。"
+
+> "Risk comes from not knowing what you're doing."
+>
+> "风险来自于不知道你在做什么。"
+
+> "Diversification is protection against ignorance. It makes little sense if you know what you are doing."
+>
+> "分散投资是对无知的保护。如果你知道自己在做什么，分散投资就没什么意义。"
+
+> "The stock market is designed to transfer money from the active to the patient."
+>
+> "股市的设计是将钱从活跃的人手中转移到耐心的人手中。"
+
+> "You don't need to be a rocket scientist. Investing is not a game where the guy with the 160 IQ beats the guy with 130 IQ."
+>
+> "你不需要成为火箭科学家。投资不是一个智商160的人击败智商130的人的游戏。"
+
+> "Chains of habit are too light to be felt until they are too heavy to be broken."
+>
+> "习惯的链条太轻了，感觉不到，直到它们太重了，无法断裂。"
+

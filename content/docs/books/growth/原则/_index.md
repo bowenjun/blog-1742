@@ -28,3 +28,39 @@ weight: 5
 >
 > "如果你不担心，你需要担心。如果你在担心，你就不需要担心。"
 
+> "Dreams + Reality + Determination = A Successful Life."
+>
+> "梦想 + 现实 + 决心 = 成功的人生。"
+
+> "Truth - more precisely, an accurate understanding of reality - is the essential foundation for producing good outcomes."
+>
+> "真相——更准确地说，对现实的准确理解——是产生良好结果的重要基础。"
+
+> "Look at the machine from the higher level."
+>
+> "从更高层次审视机器（你的生活/系统）。"
+
+> "Be radically open-minded and radically transparent."
+>
+> "保持极度开放和极度透明。"
+
+> "It is far more common for people to allow ego to stand in the way of learning."
+>
+> "让自我阻碍学习是人们非常普遍的做法。"
+
+> "Everyone has at least one big thing that stands in the way of their success; find yours and deal with it."
+>
+> "每个人至少有一个阻碍他们成功的大问题；找到你的问题并解决它。"
+
+> "Don't let pain stand in the way of progress."
+>
+> "不要让痛苦阻碍进步。"
+
+> "Fail well."
+>
+> "好好失败（从失败中吸取教训）。"
+
+> "Meaningful work and meaningful relationships were not just choices we made, they were genetically programmed into us."
+>
+> "有意义的工作和有意义的人际关系不仅仅是我们的选择，它们是基因编程在我们体内的。"
+

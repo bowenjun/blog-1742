@@ -28,3 +28,35 @@ weight: 9
 >
 > "股票是实物资产……它们是对真实财产、厂房和设备的所有权主张。"
 
+> "In the short run, stock returns are very volatile, but in the long run, they are the best hedge against inflation."
+>
+> "短期内，股票收益波动很大，但从长期来看，它们是抵御通胀的最佳工具。"
+
+> "The greatest market crashes have often been followed by the greatest market recoveries."
+>
+> "最大的市场崩盘之后往往紧随着最大的市场复苏。"
+
+> "History shows that time, not timing, is the key to investment success."
+>
+> "历史表明，时间，而不是择时，是投资成功的关键。"
+
+> "Short-term market fluctuations are noise; long-term trends are signal."
+>
+> "短期市场波动是噪音；长期趋势是信号。"
+
+> "Investors who panic and sell during a crisis are often locking in losses."
+>
+> "在危机期间恐慌抛售的投资者往往锁定了亏损。"
+
+> "Diversification is the only free lunch in investing."
+>
+> "分散投资是投资中唯一的免费午餐。"
+
+> "The long-term return on stocks has been 6.5% to 7% after inflation for the last 200 years."
+>
+> "在过去200年里，扣除通胀后的股票长期回报率一直是6.5%到7%。"
+
+> "Trying to time the market is a fool's game."
+>
+> "试图预测市场是傻瓜的游戏。"
+

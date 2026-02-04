@@ -26,3 +26,39 @@ weight: 4
 >
 > "我一直知道我会变得富有。我想我一分钟都没有怀疑过这一点。"
 
+> "The big question about how people behave is whether they’ve got an Inner Scorecard or an Outer Scorecard."
+>
+> "关于人们行为的最大问题是他们拥有的是内部计分卡还是外部计分卡。"
+
+> "Price is what you pay. Value is what you get."
+>
+> "价格是你支付的。价值是你得到的。"
+
+> "Risk comes from not knowing what you're doing."
+>
+> "风险来自于不知道你在做什么。"
+
+> "It's far better to buy a wonderful company at a fair price than a fair company at a wonderful price."
+>
+> "以合理的价格买入一家极好的公司，远胜于以极好的价格买入一家普通的公司。"
+
+> "Our favorite holding period is forever."
+>
+> "我们最喜欢的持有期限是永远。"
+
+> "Honesty is a very expensive gift, Don't expect it from cheap people."
+>
+> "诚实是非常昂贵的礼物，不要指望廉价的人会提供它。"
+
+> "The most important investment you can make is in yourself."
+>
+> "你能做的最重要的投资就是投资你自己。"
+
+> "Rule No. 1: Never lose money. Rule No. 2: Never forget rule No.1."
+>
+> "规则一：永远不要亏钱。规则二：永远不要忘记规则一。"
+
+> "You only have to do a very few things right in your life so long as you don't do too many things wrong."
+>
+> "只要你不做太多错事，你一生中只需要做对几件事。"
+

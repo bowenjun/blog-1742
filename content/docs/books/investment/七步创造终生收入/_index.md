@@ -28,3 +28,35 @@ weight: 2
 >
 > "生活的秘密在于给予。"
 
+> "It’s not what we do once in a while that shapes our lives. It’s what we do consistently."
+>
+> "塑造我们生活的不是我们偶尔做的一件事，而是我们坚持做的事。"
+
+> "Setting goals is the first step in turning the invisible into the visible."
+>
+> "设定目标是将不可见变为可见的第一步。"
+
+> "Trade your expectation for appreciation and the world changes instantly."
+>
+> "用感激代替期望，世界瞬间就会改变。"
+
+> "Success is doing what you want to do, when you want, where you want, with whom you want, as much as you want."
+>
+> "成功就是做你想做的事，在你想做的时候，在你想做的地方，和你想要的人一起，做你想做多少就做多少。"
+
+> "Most people overestimate what they can do in a year and underestimate what they can do in ten or twenty years."
+>
+> "大多数人高估了他们一年能做的事情，而低估了他们十年或二十年能做的事情。"
+
+> "Action is the foundational key to all success."
+>
+> "行动是所有成功的基础关键。"
+
+> "The path to success is to take massive, determined action."
+>
+> "通往成功的道路是采取大量的、坚决的行动。"
+
+> "Identify your problems, but give your power and energy to solutions."
+>
+> "找出你的问题，但要把你的力量和精力用于解决问题。"
+

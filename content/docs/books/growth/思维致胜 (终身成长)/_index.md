@@ -28,3 +28,35 @@ weight: 6
 >
 > "在固定型思维中，一切都关乎结果。如果你失败了——或者你不是最好的——一切都白费了。"
 
+> "In the growth mindset, failure can be a painful experience. But it doesn't define you. It's a problem to be faced, dealt with, and learned from."
+>
+> "在成长型思维中，失败可能是一种痛苦的经历。但它并不定义你。它是一个需要面对、处理和从中学习的问题。"
+
+> "No matter what your ability is, effort is what ignites that ability and turns it into accomplishment."
+>
+> "无论你的能力如何，努力是点燃这种能力并将其转化为成就的东西。"
+
+> "The passion for stretching yourself and sticking to it, even (or especially) when it’s not going well, is the hallmark of the growth mindset."
+>
+> "拓展自己并坚持下去的热情，即使（或者特别是在）事情进展不顺利的时候，是成长型思维的标志。"
+
+> "Believing that your qualities are carved in stone — the fixed mindset — creates an urgency to prove yourself over and over."
+>
+> "相信你的品质是刻在石头上的——固定型思维——会产生一种一遍又一遍地证明自己的紧迫感。"
+
+> "Why hide deficiencies instead of overcoming them?"
+>
+> "为什么要掩盖缺点而不是克服它们？"
+
+> "The hand you are dealt is just the starting point for development."
+>
+> "你手中的牌只是发展的起点。"
+
+> "Test scores and measures of achievement tell you where a student is, but they don't tell you where a student could end up."
+>
+> "考试成绩和成就衡量标准告诉你学生现在在哪里，但它们不告诉你学生最终能到达哪里。"
+
+> "Change can be tough, but I’ve never heard anyone say it wasn’t worth it."
+>
+> "改变可能很难，但我从未听任何人说过这不值得。"
+

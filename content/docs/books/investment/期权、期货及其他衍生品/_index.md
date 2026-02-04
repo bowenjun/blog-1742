@@ -24,3 +24,39 @@ weight: 14
 >
 > "衍生品的价格取决于基础资产的价格。"
 
+> "Arbitrage opportunities are like free lunches; they don't last long."
+>
+> "套利机会就像免费午餐；它们不会持续太久。"
+
+> "Options allow investors to manage risk in ways that are impossible with the underlying assets alone."
+>
+> "期权允许投资者以仅靠基础资产无法实现的方式管理风险。"
+
+> "Volatility is the most important parameter in option pricing."
+>
+> "波动率是期权定价中最重要的参数。"
+
+> "Hedging is not about making money; it's about reducing risk."
+>
+> "对冲不是为了赚钱；而是为了降低风险。"
+
+> "Futures markets play a crucial role in price discovery."
+>
+> "期货市场在价格发现中起着至关重要的作用。"
+
+> "Risk management is the primary purpose of derivatives."
+>
+> "风险管理是衍生品的主要目的。"
+
+> "Understanding the Greeks is essential for option traders."
+>
+> "理解希腊字母对于期权交易者至关重要。"
+
+> "Financial engineering uses mathematical tools to solve financial problems."
+>
+> "金融工程使用数学工具解决金融问题。"
+
+> "Leverage is a double-edged sword."
+>
+> "杠杆是一把双刃剑。"
+

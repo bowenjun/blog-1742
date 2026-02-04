@@ -28,3 +28,35 @@ weight: 3
 >
 > "计划很重要，但每个计划最重要的一部分是：为计划赶不上变化做好计划。"
 
+> "Money's greatest intrinsic value—and this can't be overstated—is its ability to give you control over your time."
+>
+> "金钱最大的内在价值——这一点怎么强调都不为过——是它赋予你掌控时间的能力。"
+
+> "Getting money is one thing. Keeping it is another."
+>
+> "赚钱是一回事。守钱是另一回事。"
+
+> "Compounding is the eighth wonder of the world."
+>
+> "复利是世界第八大奇迹。"
+
+> "Good investing is not necessarily about making good decisions. It’s about consistently not screwing up."
+>
+> "好的投资不一定是为了做出好的决定。而是为了始终不把事情搞砸。"
+
+> "No one is crazy."
+>
+> "没有人是疯子。（每个人的金钱观都源于他们的经历）"
+
+> "Optimism sounds like a sales pitch. Pessimism sounds like someone trying to help you."
+>
+> "乐观主义听起来像推销。悲观主义听起来像有人想帮你。"
+
+> "Use money to gain control over your time, because not having control of your time is a powerful and universal drag on happiness."
+>
+> "用钱来掌控你的时间，因为无法掌控时间是对幸福的强大而普遍的拖累。"
+
+> "The ability to do what you want, when you want, with who you want, for as long as you want, is priceless."
+>
+> "在你想做的时候，和你想要的人一起，做你想做的事，想做多久就做多久，这种能力是无价的。"
+

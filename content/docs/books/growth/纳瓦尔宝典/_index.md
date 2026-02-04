@@ -32,3 +32,35 @@ weight: 4
 >
 > "欲望是你与自己签订的契约：在得到你想要的东西之前，誓不快乐。"
 
+> "Wealth is assets that earn while you sleep."
+>
+> "财富是你睡觉时也能赚钱的资产。"
+
+> "Specific knowledge is found by pursuing your genuine curiosity and passion rather than whatever is hot right now."
+>
+> "特定的知识是通过追随你真正的好奇心和热情发现的，而不是追随当下的热点。"
+
+> "Code and media are permissionless leverage. They're the leverage behind the newly rich."
+>
+> "代码和媒体是无需许可的杠杆。它们是新富阶层背后的杠杆。"
+
+> "Reading is faster than listening. Doing is faster than watching."
+>
+> "阅读比听快。做比看快。"
+
+> "If you can't be happy with a coffee, you won't be happy with a yacht."
+>
+> "如果你喝咖啡时不快乐，你有了游艇也不会快乐。"
+
+> "Happiness is a choice you make and a skill you develop."
+>
+> "幸福是你做出的选择，也是你培养的技能。"
+
+> "The three most important choices in life are: where you live, who you're with, and what you do."
+>
+> "人生中最重要的三个选择是：你住在哪里，你和谁在一起，以及你做什么。"
+
+> "Escape competition through authenticity."
+>
+> "通过真实性逃避竞争。"
+

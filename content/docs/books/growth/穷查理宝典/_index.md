@@ -32,3 +32,35 @@ weight: 2
 >
 > "赚大钱不在于买卖，而在于等待。"
 
+> "Acknowledging what you don't know is the dawning of wisdom."
+>
+> "承认你不知道什么是智慧的开端。"
+
+> "People calculate too much and think too little."
+>
+> "人们计算得太多，思考得太少。"
+
+> "It's not brilliance that matters. It's just avoiding stupidity."
+>
+> "重要的不是聪明绝顶，而是避免愚蠢。"
+
+> "We have a passion for keeping things simple."
+>
+> "我们热衷于把事情变简单。"
+
+> "Like Warren, I had a considerable passion to get rich, not because I wanted Ferraris – I wanted the independence. I desperately wanted it."
+>
+> "像沃伦一样，我有致富的强烈愿望，不是因为我想要法拉利——我想要独立。我极其渴望独立。"
+
+> "The best thing a human being can do is to help another human being know more."
+>
+> "一个人能做的最好的事就是帮助另一个人知道得更多。"
+
+> "You need a different checklist and different mental models for different companies."
+>
+> "对于不同的公司，你需要不同的清单和不同的思维模型。"
+
+> "Acquire worldly wisdom and adjust your behavior accordingly."
+>
+> "获取普世智慧，并据此调整你的行为。"
+

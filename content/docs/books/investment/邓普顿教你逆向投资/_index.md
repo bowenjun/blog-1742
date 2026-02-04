@@ -27,3 +27,39 @@ weight: 11
 >
 > "牛市生于悲观，长于怀疑，成于乐观，死于狂热。"
 
+> "If you want to have a better performance than the crowd, you must do things differently from the crowd."
+>
+> "如果你想获得比大众更好的表现，你必须做与大众不同的事情。"
+
+> "Focus on value because most investors focus on outlooks."
+>
+> "专注于价值，因为大多数投资者专注于前景。"
+
+> "Invest at the point of maximum pessimism."
+>
+> "在极度悲观的时候投资。"
+
+> "The only way to avoid mistakes is not to invest—which is the biggest mistake of all."
+>
+> "避免错误的唯一方法是不投资——这是所有错误中最大的错误。"
+
+> "Don't panic. The time to sell is before the crash, not after."
+>
+> "不要恐慌。卖出的时机是在崩盘之前，而不是之后。"
+
+> "Search for bargains globally."
+>
+> "在全球范围内寻找便宜货。"
+
+> "Outperforming the market is a difficult task."
+>
+> "跑赢市场是一项艰巨的任务。"
+
+> "An investor who has all the answers doesn't understand all the questions."
+>
+> "一个拥有所有答案的投资者并不理解所有的问题。"
+
+> "The four most dangerous words in investing are: 'This time it's different.'"
+>
+> "投资中最危险的四个字是：‘这次不一样。’"
+

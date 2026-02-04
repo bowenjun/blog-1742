@@ -28,3 +28,35 @@ weight: 8
 >
 > "观点来来去去，故事留存心中。"
 
+> "The problem with experts is that they do not know what they do not know."
+>
+> "专家的问题在于他们不知道自己不知道什么。"
+
+> "History does not crawl, it jumps."
+>
+> "历史不是爬行的，它是跳跃的。"
+
+> "We treat the future as if it were a specific version of the past."
+>
+> "我们对待未来，就好像它是过去的某个特定版本。"
+
+> "Don't cross a river if it is four feet deep on average."
+>
+> "不要因为一条河平均水深四英尺就过河。"
+
+> "I know that history is going to be dominated by an improbable event, I just don't know what that event will be."
+>
+> "我知道历史将被不可能发生的事件所主宰，我只是不知道那个事件会是什么。"
+
+> "Our minds are wonderful explanation machines, capable of making sense out of almost anything."
+>
+> "我们的大脑是奇妙的解释机器，能够从几乎任何事情中找出意义。"
+
+> "It is impossible to be a vegetarian in a world of steak."
+>
+> "在牛排的世界里，不可能成为素食主义者（隐喻）。"
+
+> "We see the obvious and think we are smart. We don't see the non-obvious and don't know we are dumb."
+>
+> "我们看到显而易见的事物，认为自己很聪明。我们看不到不明显的事物，也不知道自己很笨。"
+

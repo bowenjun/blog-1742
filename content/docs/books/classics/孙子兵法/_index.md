@@ -32,3 +32,35 @@ weight: 1
 >
 > "Attack him where he is unprepared, appear where you are not expected."
 
+> "知天知地，胜乃不穷。"
+>
+> "If you know Heaven and know Earth, your victory will be complete."
+
+> "上兵伐谋，其次伐交，其次伐兵，其下攻城。"
+>
+> "The highest form of generalship is to balk the enemy's plans; the next best is to prevent the junction of the enemy's forces; the next in order is to attack the enemy's army in the field; and the worst policy of all is to besiege walled cities."
+
+> "兵无常势，水无常形。"
+>
+> "Military tactics are like unto water; for water in its natural course runs away from high places and hastens downwards."
+
+> "夫未战而庙算胜者，得算多也。"
+>
+> "Now the general who wins a battle makes many calculations in his temple ere the battle is fought."
+
+> "三军可夺气，将军可夺心。"
+>
+> "A whole army may be robbed of its spirit; a commander-in-chief may be robbed of his presence of mind."
+
+> "乱生于治，怯生于勇，弱生于强。"
+>
+> "Disorder came from order, fear came from courage, weakness came from strength."
+
+> "以正合，以奇胜。"
+>
+> "In all fighting, the direct method may be used for joining battle, but indirect methods will be needed in order to secure victory."
+
+> "投之亡地然后存，陷之死地然后生。"
+>
+> "Throw your soldiers into positions whence there is no escape, and they will prefer death to flight."
+

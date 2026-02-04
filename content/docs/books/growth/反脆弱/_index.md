@@ -28,3 +28,35 @@ weight: 7
 >
 > "如果你看到欺诈而不说出来，你就是欺诈者。"
 
+> "Antifragility is beyond resilience or robustness. The resilient resists shocks and stays the same; the antifragile gets better."
+>
+> "反脆弱超越了复原力或强韧性。复原力抵抗冲击并保持不变；反脆弱则变得更好。"
+
+> "He who has never sinned is less reliable than he who has only sinned once."
+>
+> "从未犯过罪的人比只犯过一次罪的人更不可靠。"
+
+> "A man is honorable in proportion to the personal risks he takes for his opinion."
+>
+> "一个人的高尚程度与他为自己的观点所承担的个人风险成正比。"
+
+> "Education makes the wise slightly wiser, but it makes the fool vastly more dangerous."
+>
+> "教育使智者稍微聪明一点，但使愚人危险得多。"
+
+> "Modernity has replaced ethics with legalese."
+>
+> "现代性用法律术语取代了伦理。"
+
+> "The three most harmful addictions are heroin, carbohydrates, and a monthly salary."
+>
+> "三种最有害的瘾是海洛因、碳水化合物和月薪。"
+
+> "Difficulty is what wakes up the genius."
+>
+> "困难唤醒天才。"
+
+> "Avoidance of small mistakes makes the large ones more severe."
+>
+> "避免小错误会使大错误更严重。"
+
